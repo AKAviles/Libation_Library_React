@@ -1,0 +1,26 @@
+
+.button-header {
+    color: white;
+    font-size: 20px;
+}
+
+.button-primary {
+    color: white;
+}
+
+
+.nav-button {
+    border-right: 1px solid white;
+}
+
+.button-secondary {
+    color: white;
+}
+
+
+.button-contact-head {
+    color: white;
+    background-color: #B79F25;
+    font-size: 22px;
+    border-radius: 10px;
+}

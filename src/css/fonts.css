@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Teko;
+    src: url("../fonts/Teko-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: Teko;
+    src: url("../fonts/Teko-Bold.ttf");
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: Teko;
+    src: url("../fonts/Teko-Light.ttf");
+    font-weight: light;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: Teko;
+    src: url("../fonts/Teko-Medium.ttf");
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
+  @font-face {
+    font-family: "inter-light";
+    src: url("../fonts/Inter-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "inter-medium";
+    src: url("../fonts/Inter-Medium.ttf");
+    font-weight: 300;
+    font-style: oblique;
+  }
+  
+  @font-face {
+    font-family: "inter-semibold";
+    src: url("../fonts/Inter-SemiBold.ttf");
+    font-weight: normal;
+    font-style: oblique;
+  }
+  
+  @font-face {
+    font-family: "inter-regular";
+    src: url("../fonts/Inter-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
